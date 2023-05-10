@@ -16,21 +16,6 @@ namespace StudentAPI.Controllers
             return NoContent();
         }
 
-        //Specific Type : int, boolean, string, new Class1()
-        //IActionResult
-        //ActionResult<T>
-
-
-        // CRUD
-        // Create - a new record - POST
-        // Read - retrieve a single/ list of record(s) - GET
-        // Update - modify an existing record - PUT
-        // Delete - remove an existing record - DELETE
-
-        // HTTP Verbs
-        // GET
-        // POST
-        // PUT or PATCH
-        // DELETE
+     
     }
 }
