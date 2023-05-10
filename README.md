@@ -28,7 +28,7 @@ You will be greeted with A page, where you can view the API’s and test them.
 
 
 
-> Quick search for missing items in the assessment
+> Quick search for missing items in the submission
 > 
 > **To setup CI/CD**
 >
